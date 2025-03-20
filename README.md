@@ -1,6 +1,6 @@
 ﻿# Тестовое задание для Nekki
 
-![image](Place image link here)
+![image](https://github.com/Remstam/TestAssignment/blob/main/Gamearea.png)
 
 [Замечания и недостатки](Notes.md)
 
