@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5ca7f66256a480ca227222e752e3ee3, type: 3}
+  m_Name: PoolConfig
+  m_EditorClassIdentifier: 
+  _poolSettings:
+  - _poolType: 0
+    _size: 5
+    _position: {x: -10, y: -5, z: 0}
+  - _poolType: 1
+    _size: 10
+    _position: {x: 10, y: -5, z: 0}
+  - _poolType: 2
+    _size: 10
+    _position: {x: 0, y: -5, z: 6}
+  - _poolType: 3
+    _size: 100
+    _position: {x: 0, y: -5, z: -6}
+  - _poolType: 4
+    _size: 5
+    _position: {x: 0, y: -5, z: -12}

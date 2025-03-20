@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd0c1890ee44dcdb9da3a6b8b439a19, type: 3}
+  m_Name: CanonBallSpellConfig
+  m_EditorClassIdentifier: 
+  _cooldown: 2
+  _prefabInfo:
+    _prefab: {fileID: 5089051230535388251, guid: d1731ba38dc9e9f4d8b472aa697310d5, type: 3}
+    _poolType: 2
+  _damage: 10
+  _lifeTime: 2
+  _speed: 10
+  _damageRadius: 3

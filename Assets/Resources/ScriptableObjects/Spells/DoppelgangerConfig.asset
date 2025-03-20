@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42713adbe84b43c18edc7c384bd0c4bb, type: 3}
+  m_Name: DoppelgangerConfig
+  m_EditorClassIdentifier: 
+  _cooldown: 10
+  _prefabInfo:
+    _prefab: {fileID: 9217492850492293227, guid: 0eb5cf7e2d6949c46a47dd8d89c2379f, type: 3}
+    _poolType: 4
+  _health: 100
+  _limit: 2
