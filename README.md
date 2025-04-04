@@ -3,6 +3,7 @@
 ![image](https://github.com/Remstam/TestAssignment/blob/main/Gamearea.png)
 
 [Оригинальная постановка задачи](Assignment.md)
+
 [Замечания и недостатки](Notes.md)
 
 Проверки компаниями
